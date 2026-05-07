@@ -1,5 +1,0 @@
-case_id,line,issue_type,time_period,delay_minutes,weather_condition,affected_stations
-FINAL_DEMO,Kelana Jaya Line,Signal Disruption,Peak Hour,20,Rain,"KL Sentral;Pasar Seni;Masjid Jamek"
-WORSENED,Kelana Jaya Line,Signal Disruption,Peak Hour,30,Heavy Rain,"KL Sentral;Pasar Seni;Masjid Jamek;Dang Wangi;Ampang Park"
-MEDIUM,MRT Kajang Line,Technical Fault,Peak Hour,10,Clear,"Merdeka;Tun Razak Exchange"
-LOW,Monorail Line,Technical Fault,Non-Peak Hour,10,Clear,"Bukit Bintang"
