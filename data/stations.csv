@@ -1,0 +1,158 @@
+station,line,is_interchange,order
+Gombak,Kelana Jaya Line,No,1
+Taman Melati,Kelana Jaya Line,No,2
+Wangsa Maju,Kelana Jaya Line,No,3
+Sri Rampai,Kelana Jaya Line,No,4
+Setiawangsa,Kelana Jaya Line,No,5
+Jelatek,Kelana Jaya Line,No,6
+Dato Keramat,Kelana Jaya Line,No,7
+Damai,Kelana Jaya Line,No,8
+Ampang Park,Kelana Jaya Line,Yes,9
+KLCC,Kelana Jaya Line,No,10
+Kampung Baru,Kelana Jaya Line,No,11
+Dang Wangi,Kelana Jaya Line,No,12
+Masjid Jamek,Kelana Jaya Line,Yes,13
+Pasar Seni,Kelana Jaya Line,Yes,14
+KL Sentral,Kelana Jaya Line,Yes,15
+Bangsar,Kelana Jaya Line,No,16
+Abdullah Hukum,Kelana Jaya Line,Yes,17
+Kerinchi,Kelana Jaya Line,No,18
+Universiti,Kelana Jaya Line,No,19
+Taman Jaya,Kelana Jaya Line,No,20
+Asia Jaya,Kelana Jaya Line,No,21
+Taman Paramount,Kelana Jaya Line,No,22
+Taman Bahagia,Kelana Jaya Line,No,23
+Kelana Jaya,Kelana Jaya Line,No,24
+Ara Damansara,Kelana Jaya Line,No,25
+Glenmarie,Kelana Jaya Line,Yes,26
+Subang Jaya,Kelana Jaya Line,Yes,27
+SS15,Kelana Jaya Line,No,28
+SS18,Kelana Jaya Line,No,29
+USJ 7,Kelana Jaya Line,Yes,30
+Taipan,Kelana Jaya Line,No,31
+Wawasan,Kelana Jaya Line,No,32
+USJ 21,Kelana Jaya Line,No,33
+Alam Megah,Kelana Jaya Line,No,34
+Subang Alam,Kelana Jaya Line,No,35
+Putra Heights,Kelana Jaya Line,Yes,36
+Kwasa Damansara,MRT Kajang Line,Yes,1
+Kwasa Sentral,MRT Kajang Line,No,2
+Kota Damansara,MRT Kajang Line,No,3
+Surian,MRT Kajang Line,No,4
+Mutiara Damansara,MRT Kajang Line,No,5
+Bandar Utama,MRT Kajang Line,Yes,6
+Taman Tun Dr Ismail,MRT Kajang Line,No,7
+Phileo Damansara,MRT Kajang Line,No,8
+Pusat Bandar Damansara,MRT Kajang Line,No,9
+Semantan,MRT Kajang Line,No,10
+Muzium Negara,MRT Kajang Line,Yes,11
+Pasar Seni,MRT Kajang Line,Yes,12
+Merdeka,MRT Kajang Line,Yes,13
+Bukit Bintang,MRT Kajang Line,Yes,14
+Tun Razak Exchange,MRT Kajang Line,Yes,15
+Cochrane,MRT Kajang Line,No,16
+Maluri,MRT Kajang Line,Yes,17
+Taman Pertama,MRT Kajang Line,No,18
+Taman Midah,MRT Kajang Line,No,19
+Taman Mutiara,MRT Kajang Line,No,20
+Taman Connaught,MRT Kajang Line,No,21
+Taman Suntex,MRT Kajang Line,No,22
+Sri Raya,MRT Kajang Line,No,23
+Bandar Tun Hussein Onn,MRT Kajang Line,No,24
+Batu 11 Cheras,MRT Kajang Line,No,25
+Bukit Dukung,MRT Kajang Line,No,26
+Sungai Jernih,MRT Kajang Line,No,27
+Stadium Kajang,MRT Kajang Line,No,28
+Kajang,MRT Kajang Line,Yes,29
+Kwasa Damansara,MRT Putrajaya Line,Yes,1
+Kampung Selamat,MRT Putrajaya Line,No,2
+Sungai Buloh,MRT Putrajaya Line,Yes,3
+Sri Damansara Barat,MRT Putrajaya Line,No,4
+Sri Damansara Sentral,MRT Putrajaya Line,No,5
+Sri Damansara Timur,MRT Putrajaya Line,No,6
+Metro Prima,MRT Putrajaya Line,No,7
+Kepong Baru,MRT Putrajaya Line,No,8
+Jinjang,MRT Putrajaya Line,No,9
+Kampung Batu,MRT Putrajaya Line,Yes,10
+Kentomen,MRT Putrajaya Line,No,11
+Jalan Ipoh,MRT Putrajaya Line,No,12
+Sentul Barat,MRT Putrajaya Line,No,13
+Titiwangsa,MRT Putrajaya Line,Yes,14
+Hospital Kuala Lumpur,MRT Putrajaya Line,No,15
+Raja Uda,MRT Putrajaya Line,No,16
+Ampang Park,MRT Putrajaya Line,Yes,17
+Persiaran KLCC,MRT Putrajaya Line,No,18
+Conlay,MRT Putrajaya Line,No,19
+Tun Razak Exchange,MRT Putrajaya Line,Yes,20
+Chan Sow Lin,MRT Putrajaya Line,Yes,21
+Kuchai,MRT Putrajaya Line,No,22
+Taman Naga Emas,MRT Putrajaya Line,No,23
+Sungai Besi,MRT Putrajaya Line,Yes,24
+Serdang Raya Utara,MRT Putrajaya Line,No,25
+Serdang Raya Selatan,MRT Putrajaya Line,No,26
+Serdang Jaya,MRT Putrajaya Line,No,27
+UPM,MRT Putrajaya Line,No,28
+Taman Equine,MRT Putrajaya Line,No,29
+Putra Permai,MRT Putrajaya Line,No,30
+16 Sierra,MRT Putrajaya Line,No,31
+Cyberjaya Utara,MRT Putrajaya Line,No,32
+Cyberjaya City Centre,MRT Putrajaya Line,No,33
+Putrajaya Sentral,MRT Putrajaya Line,Yes,34
+KL Sentral,Monorail Line,Yes,1
+Tun Sambanthan,Monorail Line,No,2
+Maharajalela,Monorail Line,No,3
+Hang Tuah,Monorail Line,Yes,4
+Imbi,Monorail Line,No,5
+Bukit Bintang,Monorail Line,Yes,6
+Raja Chulan,Monorail Line,No,7
+Bukit Nanas,Monorail Line,Yes,8
+Medan Tuanku,Monorail Line,No,9
+Chow Kit,Monorail Line,No,10
+Titiwangsa,Monorail Line,Yes,11
+Sentul Timur,Ampang Line,Yes,1
+Sentul,Ampang Line,No,2
+Titiwangsa,Ampang Line,Yes,3
+PWTC,Ampang Line,No,4
+Sultan Ismail,Ampang Line,No,5
+Bandaraya,Ampang Line,No,6
+Masjid Jamek,Ampang Line,Yes,7
+Plaza Rakyat,Ampang Line,No,8
+Hang Tuah,Ampang Line,Yes,9
+Pudu,Ampang Line,No,10
+Chan Sow Lin,Ampang Line,Yes,11
+Miharja,Ampang Line,No,12
+Maluri,Ampang Line,Yes,13
+Pandan Jaya,Ampang Line,No,14
+Pandan Indah,Ampang Line,No,15
+Cempaka,Ampang Line,No,16
+Cahaya,Ampang Line,No,17
+Ampang,Ampang Line,No,18
+Sentul Timur,Sri Petaling Line,Yes,1
+Sentul,Sri Petaling Line,No,2
+Titiwangsa,Sri Petaling Line,Yes,3
+PWTC,Sri Petaling Line,No,4
+Sultan Ismail,Sri Petaling Line,No,5
+Bandaraya,Sri Petaling Line,No,6
+Masjid Jamek,Sri Petaling Line,Yes,7
+Plaza Rakyat,Sri Petaling Line,No,8
+Hang Tuah,Sri Petaling Line,Yes,9
+Pudu,Sri Petaling Line,No,10
+Chan Sow Lin,Sri Petaling Line,Yes,11
+Cheras,Sri Petaling Line,No,12
+Salak Selatan,Sri Petaling Line,No,13
+Bandar Tun Razak,Sri Petaling Line,No,14
+Bandar Tasik Selatan,Sri Petaling Line,Yes,15
+Sungai Besi,Sri Petaling Line,Yes,16
+Bukit Jalil,Sri Petaling Line,No,17
+Sri Petaling,Sri Petaling Line,No,18
+Awan Besar,Sri Petaling Line,No,19
+Muhibbah,Sri Petaling Line,No,20
+Alam Sutera,Sri Petaling Line,No,21
+Kinrara BK5,Sri Petaling Line,No,22
+IOI Puchong Jaya,Sri Petaling Line,No,23
+Pusat Bandar Puchong,Sri Petaling Line,No,24
+Taman Perindustrian Puchong,Sri Petaling Line,No,25
+Bandar Puteri,Sri Petaling Line,No,26
+Puchong Perdana,Sri Petaling Line,No,27
+Puchong Prima,Sri Petaling Line,No,28
+Putra Heights,Sri Petaling Line,Yes,29
